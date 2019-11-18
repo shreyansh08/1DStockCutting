@@ -15,5 +15,6 @@ rod_length number_of_orders
 order_values (sepearated by space)
 
 repeat above 2 process for number_of_test_cases
+If it is still confusing, take a look at output.txt to understand the input format for the algo.py
 
 To show graphs, uncomment the lines in algo.py file
